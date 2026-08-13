@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: mysite.github.io
+  baseUrl: Pokachu1337.github.io/Gestalt-Constellation-Wiki
   ignorePatterns:
     - private
     - templates
