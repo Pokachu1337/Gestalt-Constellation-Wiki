@@ -1,0 +1,1 @@
+This faction fed on the chaos of war, paying political powers and manipulating armies. They will do everything in their power to send the [[Ort|continent]] back into ruin.

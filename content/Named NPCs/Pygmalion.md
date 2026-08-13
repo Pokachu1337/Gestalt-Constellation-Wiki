@@ -1,0 +1,1 @@
+Pygmalion, a skilled sculpturet learned how to breathe life into his creation, as well as use that information to remove his ability to die from old age. Has worked with the [[House of Wolves]] and their leader on multiple occasions, as well as made perfect soldiers for the war.

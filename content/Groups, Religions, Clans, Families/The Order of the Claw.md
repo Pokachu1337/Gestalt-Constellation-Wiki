@@ -1,0 +1,1 @@
+Tiamat has plenty of cults throughout reality, but the Order of the Claw is the most prominent of the known cults. They mainly consist of mortals, but dragons have been known to at least work with this cult. They show their devotion to their dark goddess by plundering the hoards of good dragons, coffers of villagers and any rare minerals they can steal from dwarven holds.

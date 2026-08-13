@@ -1,0 +1,1 @@
+Comprised of knights without home and robber barons, the War Brothers are a ruthless group of mercenaries without a job after the war ended. [[Kentan the Bloody]] is an honorable man, however none of his honor spreads through to the lower ranks of the Brothers. A powerful faction with a mass of resources, oftentimes acting as an army for any Lord that needs to win a war.

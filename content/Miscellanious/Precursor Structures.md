@@ -1,1 +1,4 @@
 [[The First Spire]] 
+[[Shattered Ruins]]
+[[Obelisk of Truth]]
+[[The Mirage Tower]]

@@ -1,0 +1,1 @@
+God of knowledge, Librarian of the heavens. Who has taught us a common language.

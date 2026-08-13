@@ -1,0 +1,1 @@
+Scholars from all around have gathered to try and understand its innerworkings, which hasn't led to much as of now, apart from the breakthrough 2 years ago, when a part of a hidden inscription was able to be translated. It reads: "[...] honesty, honor lies. [...], fate decides."

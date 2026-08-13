@@ -1,0 +1,1 @@
+A Dangerous disease that is originated from the dangerous continent of [[Platz]]. Not much is known about it apart from a couple of zoologists contracting it from an encounter with Plazotean Sea life.
