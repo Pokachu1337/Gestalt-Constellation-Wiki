@@ -1,5 +1,6 @@
-
-<h1>Homepage</h1>
+---
+title: Homepage
+---
 
 This here wiki for Gestalt Constellation Server
 Bazinga
