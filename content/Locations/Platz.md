@@ -1,0 +1,1 @@
+Platz is the 2nd continent discovered in the world of [[Kreis]]. Not much is known as of now, except that the people speak a language called [[Origin]] and worship elder spirits called [[Warden|Wardens]].

@@ -1,0 +1,1 @@
+Kreis is the world where where the story of Gestalt Constellation takes place. So far, there are 2 known continents, [[Platz]] and [[Ort]].

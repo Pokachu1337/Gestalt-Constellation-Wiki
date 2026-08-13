@@ -1,0 +1,1 @@
+In the western edge of the [[Sahra]] Desert, right outside the rule of the [[Kharagon|Dragon]], lie huge jagged spikes of green glass. Half buried under the Ever-Shifting sands of the Sahra desert. No scholar nor archeologist has been able to discern the origin, nor the use for these huge spikes.

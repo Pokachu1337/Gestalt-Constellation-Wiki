@@ -1,0 +1,1 @@
+He who created our world [[Kreis]] and protects it. Looking down at us with his singular, watchful eye, he sees all evil and burns it with his radiance during the day, however at night, evil has its chance to do what it wants to do.
