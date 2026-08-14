@@ -1,0 +1,1 @@
+[[Morgan, the Shepard]] stumbles upon [[Heleg Nir an Gawann Yalum]] who is mourning that he never got a chance to fight [[Morgan, the Shepard|General Itham Teleth the deadly]]. They agree to a duel in front of the memorial to [[Krone]]'s fallen. Morgan absolutely demolishes Gawann.

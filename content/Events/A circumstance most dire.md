@@ -1,0 +1,1 @@
+The [[Knight of Lunéciel Mondkind]] and [[Anne-Laure of Chastain]] are ambushed by members of the [[Order of the Sonne]]. Anne-Laure is captured and the Knight saves her in desperate pursuit.

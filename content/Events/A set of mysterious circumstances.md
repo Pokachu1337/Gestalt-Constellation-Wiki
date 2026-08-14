@@ -1,0 +1,1 @@
+[[Skoll Wolffard]] freed a town in [[Krone]] from a troll that was abducting people.

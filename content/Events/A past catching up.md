@@ -1,0 +1,1 @@
+In the desert sands of [[Sahra]], [[Dressi, the Undeniable]] finds an old workshop of [[Pygmalion]].

@@ -2,3 +2,4 @@
 [[Shattered Ruins]]
 [[Obelisk of Truth]]
 [[The Mirage Tower]]
+[[Precursor Vault]]

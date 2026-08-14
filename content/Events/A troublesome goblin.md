@@ -1,0 +1,1 @@
+In a remote tavern somewhere in central [[Krone]], [[Frida Stuhrkopf]] beats up a goblin that can shift into the shape of a dire wolf. Then continues to eat her soup.

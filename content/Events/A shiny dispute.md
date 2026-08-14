@@ -1,0 +1,1 @@
+[[Adalt, the Dragon of Vengeance]] is wandering in northern [[Tundra]], where he finds the hoard of a White Dragon. They fight and the White One's head now decorates the Platinum's new hoard. He also saves an adventurer, that was taken by the White One.

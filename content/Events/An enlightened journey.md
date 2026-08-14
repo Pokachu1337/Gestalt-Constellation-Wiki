@@ -1,0 +1,1 @@
+[[Anne-Laure of Chastain]] and the [[Knight of Lunéciel Mondkind]] murder flame wielding brigands, that assaulted a village.

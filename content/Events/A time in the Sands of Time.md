@@ -1,0 +1,1 @@
+[[Anne-Laure of Chastain]] and [[Knight of Lunéciel Mondkind]] explore a structure in the sand, that seams to travel with time and is guarded or guarding wolves. The temple might be a connection to [[Mutter Mond]]. It is later revealed to have been a dream vision. Puzzled by this they continue on their quest, now in the position of an arcane pendant.

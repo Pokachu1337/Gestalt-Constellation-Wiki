@@ -1,0 +1,1 @@
+[[Morgan, the Shepard]] just wanted a talk with [[Baron Bronzpfennig]] to get information on [[Konrad Silbermark]]. He leaves with an invitation to a ball and about 50 cases of aggravated, nonlethal assault by walking stick.

@@ -1,0 +1,1 @@
+[[Ashor Fuyll, the winged Cardist]] murders a group of bandits.

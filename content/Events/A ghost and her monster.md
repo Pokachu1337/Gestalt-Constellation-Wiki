@@ -1,0 +1,1 @@
+[[Amélie Scarlatina of House Bella Muerte|Amélie]] rescues [[Dressi, the Undeniable]] from a house of the [[House of Wolves|Wolves]].

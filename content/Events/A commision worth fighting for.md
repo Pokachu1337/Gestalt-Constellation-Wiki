@@ -1,0 +1,3 @@
+[[Ametro Zinnober]] has been commissioned by a merchant's bodyguard to make her a fine sword. For this he needs a bit of quicksilver. To this end he goes into a cave where he meets [[Lachen, Alex, Luca and Hans]]: a band of bandits, that he convinces to be no-longer-bandits by gifting them with new clothes and the promise of the Zinnober Clan.
+
+Deeper in the cave, he narrowly wins against a spirit of earth that brings the cave itself and it's poisonous metals to bear against the artisan. With the requisite materials collected he returns to [[Ostende]] to finish his commission.
