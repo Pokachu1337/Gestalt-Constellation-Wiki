@@ -1,4 +1,11 @@
 {
   "version": "1.0.0",
-  "plugins": {}
+  "plugins": {
+    "obsidian-plugin-leaflet": {
+      "source": "github:quartz-community/obsidian-plugin-leaflet",
+      "resolved": "https://github.com/quartz-community/obsidian-plugin-leaflet.git",
+      "commit": "ca340487c5568075cbb6b2396c6597b8677bd74e",
+      "installedAt": "2026-08-14T13:01:10.143Z"
+    }
+  }
 }

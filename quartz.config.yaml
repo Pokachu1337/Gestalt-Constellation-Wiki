@@ -273,6 +273,13 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+  - source: github:quartz-community/obsidian-plugin-leaflet
+    enabled: true
+    options: {}
+    order: 50
+    layout:
+      position: right
+      priority: 50
 layout:
   groups:
     toolbar:
