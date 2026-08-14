@@ -1,24 +1,3 @@
----
-infobox:
-    title: Knight of Lunéciel Mondkind 
-    subtitle: Sworn to Night 
-    image: "https://cdn.discordapp.com/attachments/261963733197258752/1528885736466550874/Knight_2.png?ex=6a7f914c&is=6a7e3fcc&hm=bd3639a751b6481cf2c01011e317443c9823d72b1f59113650c0b96a0d1f9ff6&" 
-    caption: Casting a spell, a weapon of ephemral steel on their back. 
-    fields: 
-        - section: Assotiation 
-        - Organisations: 
-            - - The Enlightened of Mutter Mond 
-        - Companion: 
-            - - Anne-Laure of Chastain 
-        - section: Paladin ('14) & Warlock 
-        - Level: 6 
-        - Current Tokens: 0 
-        - AC: 18 (or 20 with shield and +5 with Shield Spell) 
-        - Save DC: 16 
-        - Section: Misc 
-        - Sheet link: "[[https://v1.dicecloud.com/character/HksQcuiSkWa77ntnK/Knight-of-Luneciel-Mondkind]]" 
-        - Pronounciation: "[lyn | e | ciel] [moːnt | kɪnt]"
----
 A Knight of the [[The Enlightened of Mutter Mond|Enlightened]], a merciless Paladin to the pale light of [[Mutter Mond]]. 
 ### What is a potential thing that others might have heard about you? 
 The knight is a figure rarely seen alone. As a knight sworn to Mutter Mond, they always travels with the High Priestess Anne-Laure of Chastain. The knight does not give his own name, but that of his patron goddess, Lunéciel Mondkind. They may not carry a weapon, but that does not mean they are unarmed. _(thinking about it, this may not be that uncommon for magic knights)_
